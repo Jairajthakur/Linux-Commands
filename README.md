@@ -3,11 +3,10 @@
 ## ls
 
 ## Name
-|ls - List Directory |
-|--------------------|
+    ls - List Directory 
 
 ## DESCRIPTION
-|List  information  about  the  FILEs  (the  current  directory  by default).  Sort entries
+       List  information  about  the  FILEs  (the  current  directory  by default).  Sort entries
        alphabetically if none of -cftuvSUX nor --sort is specified.
 
        Mandatory arguments to long options are mandatory for short options too.
@@ -209,10 +208,9 @@
        terminal.   The  LS_COLORS  environment  variable  can  change  the  settings.   Use   the
        dircolors(1) command to set it.
 
-   Exit status:
-       0      if OK,
+    Exit status:
+       0      if OK.
 
        1      if minor problems (e.g., cannot access subdirectory),
 
        2      if serious trouble (e.g., cannot access command-line argument).
-|
