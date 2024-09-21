@@ -6,29 +6,56 @@
 # cd
     cd - Change Directory
 
+# pwd
+    pwd - Present Working Directory
+
 # cat
     cat - concatenate files and print on the standard output
 
+# mkdir 
+    mkdir - Create one or multiple Directories
+
+# rmdir
+    rmdir - Delete Directory
+
+# rm 
+    rm - Remove file from directory
+
+# cp 
+    cp - Copy files from your current directory to another folder
+
+# mv 
+    mv - Move  a file or folder to another location
+
+# touch
+    touch - Create a new empty file in a specific directory
+
+# zip 
+    zip - Compresses one or multiple files into a ZIP archive
+
+# unzip 
+    unzip - Extract a compressed file into your current working directory
+    
 # file
-    file — determine file type
+    file — Determine file type
 
 # du
-    du - estimate file space usage
+    du - Estimate file space usage
 
 # find
-    find - search for files in a directory hierarchy
+    find - Search for files in a directory hierarchy
 
 # man
-       man - an interface to the system reference manuals
+       man - An interface to the system reference manuals
 
 # grep
-      grep -  find a string in a file or stream
+      grep -  Find a string in a file or stream
 
 # sort
-       sort - sort lines of text files
+       sort - Sort lines of text files
 
 # uniq
-       uniq - report or omit repeated lines
+       uniq - Report or omit repeated lines
 
 # string
-       strings - print the strings of printable characters in files.
+       strings - Print the strings of printable characters in files.
