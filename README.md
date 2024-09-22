@@ -18,6 +18,15 @@
 # rmdir
     rmdir - Delete Directory
 
+# nano, vi and jed
+    nano, vi and jed - nano, vi, and jed commands let you edit files
+
+# su
+    su - Lets you switch to another user in the Terminal session
+
+# whoami 
+    whoami - switch you to the root user
+
 # rm 
     rm - Remove file from directory
 
